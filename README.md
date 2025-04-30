@@ -67,7 +67,7 @@ CameraX PreviewView（用于预览相机图片/视频）。
 	用于开始/停止视频拍摄的标准按钮。
 	用于放置 2 个按钮的垂直指南。
 
-![屏幕截图 2025-04-30 092141](https://github.com/user-attachments/assets/59ee6819-e51f-4365-ba24-8cb5f9048fed)
+![屏幕截图 2025-04-30 092141](https://github.com/user-attachments/assets/d4c14a1c-4237-4e23-944b-b124a75d7ff1)
 
 ### 编写 MainActivity.kt 代码
 
@@ -202,33 +202,32 @@ override fun onRequestPermissionsResult(
 }
 ```
 
-![屏幕截图 2025-04-30 094058](https://github.com/user-attachments/assets/b71d6d88-32aa-4f2a-8be2-54b83626f0ac)
+![屏幕截图 2025-04-30 094058](https://github.com/user-attachments/assets/b2eaf1a2-b070-449d-b2ea-ec84e28d16fd)
 
 
 ## 实现 Preview 用例
 
-![屏幕截图 2025-04-30 094610](https://github.com/user-attachments/assets/bc8fb35c-e6ea-401e-b7ea-4e1c16ade37b)
+![屏幕截图 2025-04-30 094610](https://github.com/user-attachments/assets/82bef678-900f-4ed8-87f9-6e15e3d549cf)
 
 
 ## 实现 ImageCapture 用例（拍照功能）
 
-![屏幕截图 2025-04-30 095207](https://github.com/user-attachments/assets/db424dcb-7d31-44ed-8e0e-0ede697832b7)
+![屏幕截图 2025-04-30 095207](https://github.com/user-attachments/assets/6163f9ca-d3d3-4c70-a960-98fc9e7cbf02)
 
-![屏幕截图 2025-04-30 095223](https://github.com/user-attachments/assets/5a72dbc8-748e-4895-bd01-1f6ba00d5a2b)
+![屏幕截图 2025-04-30 095223](https://github.com/user-attachments/assets/3f24130d-0c15-44e2-8208-5c948ca57349)
 
 
 ## 实现 ImageAnalysis 用例
 
-![屏幕截图 2025-04-30 095951](https://github.com/user-attachments/assets/511187f7-d038-436f-a117-662a672fbd55)
+![屏幕截图 2025-04-30 095951](https://github.com/user-attachments/assets/cebfb1b0-af88-4f93-81fd-4f64c4d82149)
 
 
 ## 实现 VideoCapture 用例（拍摄视频）
 
-![屏幕截图 2025-04-30 101222](https://github.com/user-attachments/assets/14092072-937f-42fa-ac84-2529f392a13a)
+![屏幕截图 2025-04-30 101222](https://github.com/user-attachments/assets/4868d219-a779-4ccc-9cce-4dc8a44add65)
+![屏幕截图 2025-04-30 101246](https://github.com/user-attachments/assets/9f834eaf-8f9b-4543-bb60-dc44232ab1a1)
+![屏幕截图 2025-04-30 101416](https://github.com/user-attachments/assets/4edb2c42-6a78-4786-a19d-ca13b2650b5d)
 
-![屏幕截图 2025-04-30 101246](https://github.com/user-attachments/assets/622cae07-2b32-43bc-89ac-95044120c6f4)
-
-![屏幕截图 2025-04-30 101416](https://github.com/user-attachments/assets/39f281f8-d0a2-4a98-9ba1-0f89473514a0)
 
 ## 扩展实验
 
@@ -242,15 +241,12 @@ override fun onRequestPermissionsResult(
 
 ### Preview + VideoCapture + ImageCapture
 
-![屏幕截图 2025-04-30 104008](https://github.com/user-attachments/assets/a33314e1-6230-4595-9f59-0b2a08e57ecd)
-
-![屏幕截图 2025-04-30 104017](https://github.com/user-attachments/assets/fcfbef41-1502-4011-b026-fc784fc0ace8)
-
-![屏幕截图 2025-04-30 104052](https://github.com/user-attachments/assets/e718228a-4b20-4d88-ba4c-9efc3d868b2c)
+![屏幕截图 2025-04-30 104017](https://github.com/user-attachments/assets/041ce902-5e9f-4863-8aa2-0736c647da4e)
+![屏幕截图 2025-04-30 104052](https://github.com/user-attachments/assets/e925bdd9-e2bc-4baa-a1b0-dc02632c3572)
+![屏幕截图 2025-04-30 104008](https://github.com/user-attachments/assets/90e4e510-fea6-49fb-99d1-50b6b201e9b3)
 
 
 ### Preview + VideoCapture + ImageAnalysis
-![屏幕截图 2025-04-30 104319](https://github.com/user-attachments/assets/a92bfb65-c58a-42d1-a051-de21b1d65235)
 
-![屏幕截图 2025-04-30 104336](https://github.com/user-attachments/assets/211dfa64-ada4-4751-94fe-73d9dafd0f7e)
-
+![屏幕截图 2025-04-30 104319](https://github.com/user-attachments/assets/2030ccbf-2881-495f-94d6-a3d02df9eb0f)
+![屏幕截图 2025-04-30 104336](https://github.com/user-attachments/assets/03e1db66-82b8-44e1-8862-d5fe8096ca4f)
